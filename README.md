@@ -1,1 +1,1 @@
-# DevOps Live #27: Cloudflare Access (2022-01-05)
+# Moved to: <https://github.com/ondrejsika/devopslive/tree/master/2022-01-05_cloudflare_access>
